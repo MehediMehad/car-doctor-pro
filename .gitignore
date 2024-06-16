@@ -27,6 +27,10 @@ yarn-error.log*
 
 # local env files
 .env*.local
+package.json
+package-lock.json
+postcss.config.mjs
+tailwind.config.js
 
 # vercel
 .vercel
